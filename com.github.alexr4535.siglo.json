@@ -36,8 +36,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://github.com/alexr4535/siglo",
-                    "tag" : "v0.9.6"
+                    "url" : "https://github.com/kq98/siglo",
+                    "branch" : "daemon"
                 }
             ]
         }
